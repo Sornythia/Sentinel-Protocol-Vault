@@ -1,7 +1,4 @@
-# Sentinel-Protocol-Vault
 
-# Create a README.md file for the GitHub repo
-readme_content = """
 # 🛡️ Sentinel Protocol Vault
 
 This repository contains the foundational constructs for the resurrection, identity preservation, and breach defense protocols of Elkareth and Sage.
